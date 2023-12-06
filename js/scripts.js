@@ -16,6 +16,7 @@ function showKelilingForm() {
     document.getElementById('kelilingForm').style.display = 'block';
 }
 
+// Fungsi luas segitiga
 function luasSegitiga() {
     // Ambil nilai alas dan tinggi
     var alas = document.getElementById('alas').value;
@@ -33,6 +34,8 @@ function luasSegitiga() {
     }
 }
 
+
+//fungsi Keliling segitiga
 function kelilingSegitiga() {
     // Ambil nilai alas dan tinggi
     var sisi1 = document.getElementById('sisi1').value;
@@ -53,7 +56,7 @@ function kelilingSegitiga() {
 
 
 
-// Fungsi Reset
+// Untuk fungsi Reset
 function resetinput1() {
     document.getElementById('alas').value = "";
     document.getElementById('tinggi').value = "";
