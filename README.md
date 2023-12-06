@@ -11,3 +11,6 @@ Mini project ini merupakan tugas akhir Software Engineer Fundamental Course dari
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js">
+
+## Live Demo
+https://revou-fundamental-course.github.io/27-nov-23-Fitriawan-Arya-N/
